@@ -1,0 +1,9 @@
+gym==0.21.0
+matplotlib==3.4.3
+numpy==1.21.3
+torch==1.10.0
+tqdm==4.62.3
+Box2D
+box2d-py
+gym[all]
+gym[Box_2D]
