@@ -1,6 +1,6 @@
 # Reinforcement-Learning-Algorithms
 
-Exercises of the Reinforcement Learning course (EL2805) at KTH, fall 2021.
+Exercises of the [Reinforcement Learning course (EL2805)](https://www.kth.se/student/kurser/kurs/EL2805?l=en) at KTH, fall 2021.
 
 The first exercise consisted of using different algorithms to compute the path for the agent to leave the maze without being caught by the minotaur. There were multiple variants, for example on whether the minotaur could wait in the same place or the maximum number of times the agent could move inside the maze. In this problem, it was applied the following algorithms:
 - Dynamic programing
